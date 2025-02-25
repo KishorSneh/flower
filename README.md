@@ -26,6 +26,7 @@ You can modify the colors, speed, and number of iterations in the script:
   - Iterations: Modify the `for` loop range to control complexity
   - 
 ### 📸 Preview
+![Flower Pattern](https://github.com/KishorSneh/flower/flower.jpg)
 
 
 
